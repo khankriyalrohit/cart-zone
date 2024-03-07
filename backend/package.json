@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
-    "client": "npm start --prefix ./client"
+    "client": "npm start --prefix ./client",
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
