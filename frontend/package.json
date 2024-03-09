@@ -28,7 +28,7 @@
     "react-helmet": "^6.1.0",
     "react-hooks": "^1.0.1",
     "react-icons": "^4.10.1",
-    "react-js-pagination": "^3.0.3",
+    "react-js-pagination": "^3.0.2",
     "react-material-ui-carousel": "^3.4.2",
     "react-rating-stars-component": "^2.2.0",
     "react-redux": "^7.2.4",
@@ -65,6 +65,6 @@
     ]
   },
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   }
 }
